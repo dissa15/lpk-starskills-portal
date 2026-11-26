@@ -1,0 +1,17 @@
+# Inti: model intent, retrieval BM25 (bawaan), dan modul sika
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+joblib>=1.3
+
+# Gemini (SDK resmi) dan pembacaan .env
+google-genai>=1.0
+python-dotenv>=1.0
+
+# Layanan API (FastAPI)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.0
+
+# Uji
+pytest>=7.0
