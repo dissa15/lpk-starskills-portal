@@ -1,0 +1,5 @@
+# Tambahan HANYA jika memakai SIKA_RETRIEVER=dense atau hybrid (unduhan model cukup besar). chromadb dan sentence-transformers butuh paket biner,
+# jadi kalau gagal dipasang di Python versi baru, tetap pakai SIKA_RETRIEVER=bm25 atau pakai Python 3.13
+-r requirements.txt
+sentence-transformers>=2.7
+chromadb>=0.5

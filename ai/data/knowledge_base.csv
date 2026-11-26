@@ -1,0 +1,18 @@
+id,kategori,judul,isi,status_verifikasi
+KB01,profil,Profil singkat LPK,"LPK Star Skills Innovations adalah lembaga pelatihan kerja di Berbek, Waru, Sidoarjo, berdiri sejak 2023. Secara legalitas berada di bawah CV Star Goods Sidoarjo. Pelatihan disiapkan agar peserta siap kerja sesuai kebutuhan industri.",terverifikasi
+KB02,profil,Kerja sama dan pembiayaan,LPK bermitra dengan Disnaker Kabupaten Sidoarjo sejak 2023 dan kini juga dengan Disnaker Surabaya. Pelatihan program pemerintah dibiayai APBD sehingga gratis bagi peserta. Sertifikasi dilakukan bersama BNSP.,terverifikasi
+KB03,program,Daftar 6 program pelatihan,"LPK memiliki 6 program pelatihan: Teknik Pendingin AC, Practical Office Advance, Pengelola Administrasi Perkantoran, Pemeliharaan Kendaraan Ringan Sistem Injeksi, Instalasi Tenaga Listrik, serta Digital Marketing dan Content Creator.",terverifikasi
+KB04,program,Durasi pelatihan,Durasi tiap jurusan berbeda-beda. Contohnya pelatihan teknisi sepeda motor injeksi berlangsung 21 hari. Durasi program lain perlu dikonfirmasi ke admin LPK.,perlu_konfirmasi
+KB05,program,Detail materi tiap program,Rincian materi per program belum dilengkapi pihak LPK. Instruktur berpengalaman memandu pelatihan dengan kurikulum standar industri.,perlu_konfirmasi
+KB06,syarat,Syarat peserta,"Syarat peserta: KTP sesuai domisili yang ditentukan LPK (saat ini Sidoarjo atau Surabaya), usia minimal 19 tahun, lulusan minimal SMA/SMK/MA, dan belum bekerja yang dibuktikan dengan kartu AK1.",terverifikasi
+KB07,syarat,Batas usia maksimal,"Batas usia atas peserta adalah 34 atau 40 tahun, tergantung poster atau periode pendaftaran. Peserta perlu memeriksa poster periode yang sedang berjalan atau menanyakan ke admin.",perlu_konfirmasi
+KB08,syarat,Seleksi peserta,"Ada seleksi berupa tes tertulis dan wawancara, sehingga tidak semua pendaftar diterima. Kuota terbatas, contohnya 32 orang per angkatan.",terverifikasi
+KB09,jadwal,Jadwal pelatihan,Jadwal pembukaan tiap angkatan berbeda untuk setiap periode. Contoh: pelatihan teknisi sepeda motor injeksi dibuka 5 Oktober 2026. Jadwal terbaru perlu dikonfirmasi ke admin atau poster resmi.,perlu_konfirmasi
+KB10,biaya,Biaya pelatihan,Pelatihan program pemerintah dibiayai APBD sehingga gratis bagi peserta yang memenuhi syarat dan lolos seleksi.,terverifikasi
+KB11,fasilitas,Sertifikat,"Peserta mendapat sertifikat kompetensi BNSP jika lulus ujian kompetensi, serta sertifikat mengikuti pelatihan.",terverifikasi
+KB12,fasilitas,Fasilitas peserta,"Fasilitas peserta: seragam, modul, bahan pelatihan, serta konsumsi (makan dan minum siang) selama pelatihan.",terverifikasi
+KB13,fasilitas,Job connect dan bekal kerja,"Peserta mendapat bekal membuat CV, mengenal peluang kerja, dan pendampingan job connect, yaitu dihubungkan ke dunia kerja atau usaha mandiri.",terverifikasi
+KB14,fasilitas,Siswa PKL,"LPK juga menerima siswa PKL dari SMK, misalnya PKL 3 bulan untuk siswa SMK Darma Siswa 2.",terverifikasi
+KB15,kontak,Alamat,"Alamat LPK: Jl. Kusuma No.7, RT.01/RW.04, Berbek, Kecamatan Waru, Kabupaten Sidoarjo, Jawa Timur 61256.",terverifikasi
+KB16,kontak,Kontak resmi,"Kontak resmi: PIC Nanda Dhani (Koordinator Pelatihan), WhatsApp 081907035915, email LPKSSIHebat@gmail.com, Instagram instagram.com/starskillsinnovation.",terverifikasi
+KB17,rekomendasi,Rekomendasi jurusan,"Untuk memilih jurusan yang cocok, calon peserta diarahkan ke fitur kuis rekomendasi jurusan di website. Chatbot tidak memberi rekomendasi sendiri.",terverifikasi

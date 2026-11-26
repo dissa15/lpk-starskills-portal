@@ -1,0 +1,4 @@
+# Tambahan hanya untuk notebook eksperimen (bukan untuk menjalankan API)
+-r requirements-dense.txt
+matplotlib>=3.7
+jupyter>=1.0

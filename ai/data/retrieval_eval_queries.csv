@@ -1,0 +1,19 @@
+query_id,query,relevant_kb_ids
+Q01,Program pelatihan apa saja yang tersedia?,KB03
+Q02,Ada berapa jurusan di LPK ini?,KB03
+Q03,Berapa lama pelatihan motor injeksi?,KB04
+Q04,Syarat umur dan pendidikan untuk daftar?,KB06;KB07
+Q05,Harus punya AK1 nggak?,KB06
+Q06,Apakah semua pendaftar pasti diterima?,KB08
+Q07,Pelatihannya gratis?,KB10;KB02
+Q08,Siapa yang membiayai pelatihan?,KB02;KB10
+Q09,Dapat sertifikat apa?,KB11
+Q10,Dapat seragam dan makan siang nggak?,KB12
+Q11,Setelah lulus dibantu cari kerja?,KB13
+Q12,Boleh PKL dari SMK?,KB14
+Q13,Di mana alamat lembaganya?,KB15
+Q14,Nomor WhatsApp admin berapa?,KB16
+Q15,Kapan angkatan berikutnya dibuka?,KB09
+Q16,Kuota peserta berapa orang?,KB08
+Q17,Bagaimana memilih jurusan yang cocok?,KB17
+Q18,LPK ini berdiri sejak kapan?,KB01

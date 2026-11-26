@@ -1,0 +1,225 @@
+id,text,intent,source
+D001,Program pelatihan apa saja yang ada di LPK Star Skills?,tanya_program,dummy-manual
+D002,Ada jurusan apa aja di sini?,tanya_program,dummy-manual
+D003,Boleh tahu daftar pelatihan yang tersedia?,tanya_program,dummy-manual
+D004,LPK ini buka pelatihan apa saja ya?,tanya_program,dummy-manual
+D005,Apakah ada pelatihan teknik pendingin AC?,tanya_program,dummy-manual
+D006,Di sini ada kelas digital marketing nggak?,tanya_program,dummy-manual
+D007,Pelatihan Practical Office Advance itu belajar apa?,tanya_program,dummy-manual
+D008,Pengelola administrasi perkantoran isinya apa saja?,tanya_program,dummy-manual
+D009,Apa itu pelatihan pemeliharaan kendaraan ringan sistem injeksi?,tanya_program,dummy-manual
+D010,Ada pelatihan instalasi tenaga listrik?,tanya_program,dummy-manual
+D011,Digital Marketing dan Content Creator belajar apa aja?,tanya_program,dummy-manual
+D012,Ada berapa program pelatihan di LPK Star Skills?,tanya_program,dummy-manual
+D013,Kalau teknisi motor injeksi durasinya berapa lama?,tanya_program,dummy-manual
+D014,Berapa lama pelatihan Teknik Pendingin AC?,tanya_program,dummy-manual
+D015,Durasi tiap jurusan sama atau beda?,tanya_program,dummy-manual
+D016,Apakah ada pelatihan komputer atau kantoran?,tanya_program,dummy-manual
+D017,Mau tanya jurusan yang ada dong kak,tanya_program,dummy-manual
+D018,Apa saja materi yang diajarkan di pelatihan listrik?,tanya_program,dummy-manual
+D019,Pelatihan montir ada nggak?,tanya_program,dummy-manual
+D020,Jurusan apa yang berkaitan dengan administrasi?,tanya_program,dummy-manual
+D021,Ada kelas membuat konten untuk media sosial?,tanya_program,dummy-manual
+D022,"Selain AC, ada pelatihan teknik lainnya?",tanya_program,dummy-manual
+D023,info program pelatihannya apa aja min,tanya_program,dummy-manual
+D024,kursus apa saja yang dibuka lpk ini,tanya_program,dummy-manual
+D025,Instrukturnya berpengalaman nggak untuk program AC?,tanya_program,dummy-manual
+D026,Kurikulum pelatihannya mengikuti standar apa?,tanya_program,dummy-manual
+D027,Apakah program Digital Marketing cocok untuk pemula?,tanya_program,dummy-manual
+D028,Pelatihan Office Advance mengajarkan Excel nggak?,tanya_program,dummy-manual
+D029,Apa saja syarat untuk mendaftar pelatihan?,tanya_syarat_pendaftaran,dummy-manual
+D030,Syarat peserta pelatihan apa aja ya?,tanya_syarat_pendaftaran,dummy-manual
+D031,Usia minimal untuk daftar berapa tahun?,tanya_syarat_pendaftaran,dummy-manual
+D032,Berapa batas usia maksimal peserta?,tanya_syarat_pendaftaran,dummy-manual
+D033,Pendidikan minimal untuk ikut pelatihan apa?,tanya_syarat_pendaftaran,dummy-manual
+D034,Lulusan SMK boleh daftar nggak?,tanya_syarat_pendaftaran,dummy-manual
+D035,Apakah harus punya KTP Sidoarjo?,tanya_syarat_pendaftaran,dummy-manual
+D036,Boleh daftar kalau KTP-nya Surabaya?,tanya_syarat_pendaftaran,dummy-manual
+D037,"Saya KTP luar kota, bisa ikut nggak?",tanya_syarat_pendaftaran,dummy-manual
+D038,Apa itu kartu AK1 dan apakah wajib?,tanya_syarat_pendaftaran,dummy-manual
+D039,Harus belum bekerja ya untuk ikut pelatihan?,tanya_syarat_pendaftaran,dummy-manual
+D040,Kalau sudah kerja boleh daftar tidak?,tanya_syarat_pendaftaran,dummy-manual
+D041,Dokumen apa saja yang perlu disiapkan untuk mendaftar?,tanya_syarat_pendaftaran,dummy-manual
+D042,Bagaimana cara mendaftar pelatihan di LPK ini?,tanya_syarat_pendaftaran,dummy-manual
+D043,Daftarnya lewat mana?,tanya_syarat_pendaftaran,dummy-manual
+D044,Apakah ada tes seleksi sebelum diterima?,tanya_syarat_pendaftaran,dummy-manual
+D045,Seleksinya tes tertulis atau wawancara?,tanya_syarat_pendaftaran,dummy-manual
+D046,Apakah semua pendaftar pasti diterima?,tanya_syarat_pendaftaran,dummy-manual
+D047,Kuota peserta per angkatan berapa orang?,tanya_syarat_pendaftaran,dummy-manual
+D048,Lulusan SMA bisa ikut pelatihan ini?,tanya_syarat_pendaftaran,dummy-manual
+D049,Saya umur 35 tahun masih boleh daftar?,tanya_syarat_pendaftaran,dummy-manual
+D050,Apakah lulusan SMP bisa mendaftar?,tanya_syarat_pendaftaran,dummy-manual
+D051,syarat daftar apa aja kak,tanya_syarat_pendaftaran,dummy-manual
+D052,mau daftar pelatihan harus bawa apa aja,tanya_syarat_pendaftaran,dummy-manual
+D053,Perlu surat keterangan belum bekerja nggak?,tanya_syarat_pendaftaran,dummy-manual
+D054,Apakah ada syarat khusus untuk perempuan?,tanya_syarat_pendaftaran,dummy-manual
+D055,Bisa daftar tanpa kartu AK1?,tanya_syarat_pendaftaran,dummy-manual
+D056,Persyaratan administrasinya apa saja?,tanya_syarat_pendaftaran,dummy-manual
+D057,Pelatihannya gratis atau bayar?,tanya_jadwal_biaya,dummy-manual
+D058,Berapa biaya mengikuti pelatihan?,tanya_jadwal_biaya,dummy-manual
+D059,Apakah ada biaya pendaftaran?,tanya_jadwal_biaya,dummy-manual
+D060,Kapan pendaftaran pelatihan dibuka?,tanya_jadwal_biaya,dummy-manual
+D061,Jadwal pelatihan terdekat kapan?,tanya_jadwal_biaya,dummy-manual
+D062,Kapan angkatan berikutnya dimulai?,tanya_jadwal_biaya,dummy-manual
+D063,Pelatihan teknisi motor injeksi mulai tanggal berapa?,tanya_jadwal_biaya,dummy-manual
+D064,Pendaftaran ditutup tanggal berapa?,tanya_jadwal_biaya,dummy-manual
+D065,Pelatihan berlangsung jam berapa setiap harinya?,tanya_jadwal_biaya,dummy-manual
+D066,Hari apa saja kelasnya berlangsung?,tanya_jadwal_biaya,dummy-manual
+D067,Kenapa pelatihan di sini gratis?,tanya_jadwal_biaya,dummy-manual
+D068,Gratis itu dibiayai siapa?,tanya_jadwal_biaya,dummy-manual
+D069,Apakah peserta harus bayar seragam atau modul?,tanya_jadwal_biaya,dummy-manual
+D070,Ada biaya ujian sertifikasi BNSP nggak?,tanya_jadwal_biaya,dummy-manual
+D071,Berapa hari durasi pelatihan satu angkatan?,tanya_jadwal_biaya,dummy-manual
+D072,Kapan batch selanjutnya dibuka kak?,tanya_jadwal_biaya,dummy-manual
+D073,Ada jadwal pelatihan bulan depan?,tanya_jadwal_biaya,dummy-manual
+D074,Biaya totalnya berapa kalau ikut program AC?,tanya_jadwal_biaya,dummy-manual
+D075,Masih ada kuota untuk angkatan ini?,tanya_jadwal_biaya,dummy-manual
+D076,Sisa kuota pendaftaran berapa?,tanya_jadwal_biaya,dummy-manual
+D077,kapan buka pendaftaran lagi,tanya_jadwal_biaya,dummy-manual
+D078,free apa berbayar ini pelatihannya,tanya_jadwal_biaya,dummy-manual
+D079,Apakah pelatihan dilaksanakan pagi atau sore?,tanya_jadwal_biaya,dummy-manual
+D080,Jadwal ujian kompetensi kapan?,tanya_jadwal_biaya,dummy-manual
+D081,Berapa lama proses seleksi sampai pengumuman?,tanya_jadwal_biaya,dummy-manual
+D082,Kapan pengumuman peserta yang diterima?,tanya_jadwal_biaya,dummy-manual
+D083,Kapan pelatihan Digital Marketing dibuka?,tanya_jadwal_biaya,dummy-manual
+D084,Apakah ada pungutan biaya selama pelatihan?,tanya_jadwal_biaya,dummy-manual
+D085,Peserta dapat sertifikat apa setelah pelatihan?,tanya_fasilitas_sertifikat,dummy-manual
+D086,Apakah sertifikatnya dari BNSP?,tanya_fasilitas_sertifikat,dummy-manual
+D087,Sertifikat BNSP didapat kalau lulus ujian ya?,tanya_fasilitas_sertifikat,dummy-manual
+D088,Fasilitas apa saja yang didapat peserta?,tanya_fasilitas_sertifikat,dummy-manual
+D089,Peserta dapat seragam nggak?,tanya_fasilitas_sertifikat,dummy-manual
+D090,Ada modul pelatihan yang dibagikan?,tanya_fasilitas_sertifikat,dummy-manual
+D091,Apakah peserta dikasih makan siang?,tanya_fasilitas_sertifikat,dummy-manual
+D092,Konsumsi selama pelatihan ditanggung?,tanya_fasilitas_sertifikat,dummy-manual
+D093,"Setelah lulus, apakah dibantu mencari kerja?",tanya_fasilitas_sertifikat,dummy-manual
+D094,Apa itu job connect di LPK Star Skills?,tanya_fasilitas_sertifikat,dummy-manual
+D095,Ada pendampingan membuat CV?,tanya_fasilitas_sertifikat,dummy-manual
+D096,Apakah ada ujian kompetensi untuk sertifikat keahlian?,tanya_fasilitas_sertifikat,dummy-manual
+D097,Bahan praktik disediakan oleh LPK?,tanya_fasilitas_sertifikat,dummy-manual
+D098,Peserta dapat sertifikat mengikuti pelatihan juga?,tanya_fasilitas_sertifikat,dummy-manual
+D099,Instruktur di sini lulusan mana dan berpengalaman?,tanya_fasilitas_sertifikat,dummy-manual
+D100,Apakah lulusan dihubungkan ke perusahaan?,tanya_fasilitas_sertifikat,dummy-manual
+D101,Ada bantuan untuk yang mau berwirausaha?,tanya_fasilitas_sertifikat,dummy-manual
+D102,Manfaat ikut pelatihan di sini apa saja?,tanya_fasilitas_sertifikat,dummy-manual
+D103,Sertifikat BNSP berlaku berapa lama?,tanya_fasilitas_sertifikat,dummy-manual
+D104,"Kalau tidak lulus ujian, tetap dapat sertifikat?",tanya_fasilitas_sertifikat,dummy-manual
+D105,fasilitasnya apa aja sih kak,tanya_fasilitas_sertifikat,dummy-manual
+D106,dapat apa aja kalau ikut pelatihan,tanya_fasilitas_sertifikat,dummy-manual
+D107,Apakah LPK menerima siswa PKL dari SMK?,tanya_fasilitas_sertifikat,dummy-manual
+D108,Berapa lama PKL untuk siswa SMK?,tanya_fasilitas_sertifikat,dummy-manual
+D109,Apakah ada peralatan praktik yang disediakan?,tanya_fasilitas_sertifikat,dummy-manual
+D110,Peserta dapat minum dan snack juga?,tanya_fasilitas_sertifikat,dummy-manual
+D111,Apakah sertifikat diakui perusahaan?,tanya_fasilitas_sertifikat,dummy-manual
+D112,Ada pelatihan membuat CV dan wawancara kerja?,tanya_fasilitas_sertifikat,dummy-manual
+D113,"Saya bingung mau ambil jurusan apa, bantu pilihkan dong",minta_rekomendasi_jurusan,dummy-manual
+D114,Jurusan mana yang paling cocok buat saya?,minta_rekomendasi_jurusan,dummy-manual
+D115,Rekomendasikan jurusan yang sesuai minat saya,minta_rekomendasi_jurusan,dummy-manual
+D116,"Saya suka komputer, sebaiknya ambil jurusan apa?",minta_rekomendasi_jurusan,dummy-manual
+D117,"Aku suka utak-atik mesin, cocoknya jurusan yang mana?",minta_rekomendasi_jurusan,dummy-manual
+D118,Bantu pilih program pelatihan yang cocok untuk saya,minta_rekomendasi_jurusan,dummy-manual
+D119,Menurut kamu saya lebih cocok ke AC atau listrik?,minta_rekomendasi_jurusan,dummy-manual
+D120,"Saya suka desain dan media sosial, jurusan apa yang pas?",minta_rekomendasi_jurusan,dummy-manual
+D121,Apakah ada tes minat untuk menentukan jurusan?,minta_rekomendasi_jurusan,dummy-manual
+D122,Mau coba kuis rekomendasi jurusan dong,minta_rekomendasi_jurusan,dummy-manual
+D123,Gimana cara tahu jurusan yang cocok buat aku?,minta_rekomendasi_jurusan,dummy-manual
+D124,"Saya lulusan SMA belum tahu mau belajar apa, saran jurusan?",minta_rekomendasi_jurusan,dummy-manual
+D125,"Kalau saya suka kerja kantoran, ambil jurusan apa?",minta_rekomendasi_jurusan,dummy-manual
+D126,Kira-kira jurusan mana yang peluang kerjanya bagus buat saya?,minta_rekomendasi_jurusan,dummy-manual
+D127,Tolong sarankan pelatihan yang cocok dengan kepribadian saya,minta_rekomendasi_jurusan,dummy-manual
+D128,"Saya tertarik teknologi, jurusan apa yang direkomendasikan?",minta_rekomendasi_jurusan,dummy-manual
+D129,"Aku masih bingung pilih jurusan, ada panduannya?",minta_rekomendasi_jurusan,dummy-manual
+D130,"Mana yang lebih baik buat pemula, listrik atau digital marketing?",minta_rekomendasi_jurusan,dummy-manual
+D131,rekomendasi jurusan dong kak,minta_rekomendasi_jurusan,dummy-manual
+D132,cocoknya aku ambil jurusan apa ya,minta_rekomendasi_jurusan,dummy-manual
+D133,"Saya suka bekerja dengan tangan dan alat, jurusan apa yang cocok?",minta_rekomendasi_jurusan,dummy-manual
+D134,Bisa bantu tentukan jurusan sesuai hobi saya?,minta_rekomendasi_jurusan,dummy-manual
+D135,Ada fitur untuk memilih jurusan yang sesuai minat?,minta_rekomendasi_jurusan,dummy-manual
+D136,"Kalau saya suka berkomunikasi dan kreatif, ambil apa?",minta_rekomendasi_jurusan,dummy-manual
+D137,Pilihkan jurusan terbaik untuk saya dong,minta_rekomendasi_jurusan,dummy-manual
+D138,"Saya mau kerja cepat setelah lulus, jurusan apa yang disarankan?",minta_rekomendasi_jurusan,dummy-manual
+D139,Test minat bakat jurusan ada di mana?,minta_rekomendasi_jurusan,dummy-manual
+D140,Jurusan apa yang cocok untuk saya yang suka hitung-hitungan dan rapi?,minta_rekomendasi_jurusan,dummy-manual
+D141,Alamat LPK Star Skills di mana?,tanya_kontak_lokasi,dummy-manual
+D142,Lokasi lembaganya di daerah mana?,tanya_kontak_lokasi,dummy-manual
+D143,Bagaimana cara menghubungi admin?,tanya_kontak_lokasi,dummy-manual
+D144,Nomor WhatsApp admin berapa?,tanya_kontak_lokasi,dummy-manual
+D145,Boleh minta kontak PIC LPK?,tanya_kontak_lokasi,dummy-manual
+D146,Siapa koordinator pelatihannya?,tanya_kontak_lokasi,dummy-manual
+D147,Email LPK apa ya?,tanya_kontak_lokasi,dummy-manual
+D148,Apakah LPK punya Instagram?,tanya_kontak_lokasi,dummy-manual
+D149,Akun Instagram LPK apa namanya?,tanya_kontak_lokasi,dummy-manual
+D150,Saya mau bicara langsung dengan admin,tanya_kontak_lokasi,dummy-manual
+D151,Bisa hubungi lewat WhatsApp?,tanya_kontak_lokasi,dummy-manual
+D152,Letaknya di Sidoarjo bagian mana?,tanya_kontak_lokasi,dummy-manual
+D153,Dekat dengan apa lokasi LPK-nya?,tanya_kontak_lokasi,dummy-manual
+D154,Jam operasional kantor LPK kapan?,tanya_kontak_lokasi,dummy-manual
+D155,Bisa datang langsung ke kantor untuk tanya-tanya?,tanya_kontak_lokasi,dummy-manual
+D156,Kantornya buka hari apa saja?,tanya_kontak_lokasi,dummy-manual
+D157,Mau konsultasi langsung dengan petugas LPK,tanya_kontak_lokasi,dummy-manual
+D158,Ada nomor yang bisa dihubungi?,tanya_kontak_lokasi,dummy-manual
+D159,alamat lpk dimana min,tanya_kontak_lokasi,dummy-manual
+D160,minta nomor wa adminnya dong,tanya_kontak_lokasi,dummy-manual
+D161,Bagaimana cara ke lokasi LPK dari Surabaya?,tanya_kontak_lokasi,dummy-manual
+D162,"Alamat lengkapnya apa, mau survei dulu",tanya_kontak_lokasi,dummy-manual
+D163,Saya mau tanya langsung ke Pak Nanda,tanya_kontak_lokasi,dummy-manual
+D164,Hubungkan saya dengan admin,tanya_kontak_lokasi,dummy-manual
+D165,Apakah ada layanan telepon?,tanya_kontak_lokasi,dummy-manual
+D166,Sosial media LPK apa saja?,tanya_kontak_lokasi,dummy-manual
+D167,Kontak untuk kerja sama dengan LPK siapa?,tanya_kontak_lokasi,dummy-manual
+D168,"Saya butuh bantuan manusia, bukan chatbot",tanya_kontak_lokasi,dummy-manual
+D169,Halo,sapaan_penutup,dummy-manual
+D170,Hai kak,sapaan_penutup,dummy-manual
+D171,Selamat pagi,sapaan_penutup,dummy-manual
+D172,Selamat siang,sapaan_penutup,dummy-manual
+D173,Selamat sore,sapaan_penutup,dummy-manual
+D174,Selamat malam,sapaan_penutup,dummy-manual
+D175,Assalamualaikum,sapaan_penutup,dummy-manual
+D176,"Permisi, mau tanya",sapaan_penutup,dummy-manual
+D177,Halo admin,sapaan_penutup,dummy-manual
+D178,Hai SIKA,sapaan_penutup,dummy-manual
+D179,"Hallo, ada orang?",sapaan_penutup,dummy-manual
+D180,Pagi kak,sapaan_penutup,dummy-manual
+D181,Terima kasih,sapaan_penutup,dummy-manual
+D182,Makasih ya kak,sapaan_penutup,dummy-manual
+D183,Terima kasih banyak atas infonya,sapaan_penutup,dummy-manual
+D184,"Oke, sudah jelas, thanks",sapaan_penutup,dummy-manual
+D185,"Baik, saya paham",sapaan_penutup,dummy-manual
+D186,"Sip, makasih",sapaan_penutup,dummy-manual
+D187,Sampai jumpa,sapaan_penutup,dummy-manual
+D188,Dadah,sapaan_penutup,dummy-manual
+D189,"Cukup sekian, terima kasih",sapaan_penutup,dummy-manual
+D190,"Wah, membantu sekali, makasih SIKA",sapaan_penutup,dummy-manual
+D191,Oke deh kak,sapaan_penutup,dummy-manual
+D192,"Halo SIKA, boleh tanya?",sapaan_penutup,dummy-manual
+D193,Hi,sapaan_penutup,dummy-manual
+D194,"Selamat datang, saya mau bertanya",sapaan_penutup,dummy-manual
+D195,Terima kasih sudah membantu,sapaan_penutup,dummy-manual
+D196,"Siap, nanti saya tanya lagi",sapaan_penutup,dummy-manual
+D197,Siapa presiden Indonesia sekarang?,di_luar_konteks,dummy-manual
+D198,Resep nasi goreng yang enak gimana?,di_luar_konteks,dummy-manual
+D199,Cuaca hari ini di Surabaya bagaimana?,di_luar_konteks,dummy-manual
+D200,Berapa harga iPhone terbaru?,di_luar_konteks,dummy-manual
+D201,Siapa yang menang pertandingan sepak bola semalam?,di_luar_konteks,dummy-manual
+D202,Tolong buatkan puisi tentang cinta,di_luar_konteks,dummy-manual
+D203,Ceritakan lelucon yang lucu,di_luar_konteks,dummy-manual
+D204,Bagaimana cara membuat kode Python untuk kalkulator?,di_luar_konteks,dummy-manual
+D205,Apa ibu kota Prancis?,di_luar_konteks,dummy-manual
+D206,Tolong kerjakan PR matematika saya,di_luar_konteks,dummy-manual
+D207,Rekomendasi film bagus apa ya?,di_luar_konteks,dummy-manual
+D208,Cara menurunkan berat badan cepat bagaimana?,di_luar_konteks,dummy-manual
+D209,Kurs dolar hari ini berapa?,di_luar_konteks,dummy-manual
+D210,Siapa pemilik perusahaan Tokopedia?,di_luar_konteks,dummy-manual
+D211,Gimana cara bikin akun Instagram?,di_luar_konteks,dummy-manual
+D212,Apa arti mimpi bertemu ular?,di_luar_konteks,dummy-manual
+D213,Tolong terjemahkan kalimat ini ke bahasa Inggris,di_luar_konteks,dummy-manual
+D214,Berapa gaji PNS golongan 3?,di_luar_konteks,dummy-manual
+D215,Obat sakit kepala yang bagus apa?,di_luar_konteks,dummy-manual
+D216,Cara memperbaiki laptop yang mati total?,di_luar_konteks,dummy-manual
+D217,Lowongan kerja di pabrik mana yang buka?,di_luar_konteks,dummy-manual
+D218,Pelatihan di LPK lain biayanya berapa?,di_luar_konteks,dummy-manual
+D219,Kamu AI buatan siapa sih?,di_luar_konteks,dummy-manual
+D220,Siapa pacar kamu?,di_luar_konteks,dummy-manual
+D221,Jelaskan teori relativitas Einstein,di_luar_konteks,dummy-manual
+D222,Rekomendasi tempat wisata di Bali,di_luar_konteks,dummy-manual
+D223,Cara daftar CPNS bagaimana?,di_luar_konteks,dummy-manual
+D224,Apa kabar dunia hari ini?,di_luar_konteks,dummy-manual
